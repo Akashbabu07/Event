@@ -45,6 +45,13 @@ body{
   /* float: right; */
     color: antiquewhite;
     box-shadow:0 0 6.25rem rgb(0, 0, 0);
+      background-image:url(event_wala_.png),
+    linear-gradient(to right,rgb(39, 39, 39),rgb(255, 255, 255) );
+  background-repeat: repeat,  no-repeat,no-repeat;
+  background-position:
+    top right,
+    left,
+  right; 
 }
 
 
