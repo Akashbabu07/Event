@@ -165,7 +165,7 @@ mix-blend-mode: multiply;
 }
 
 h2{
-    font-size: 80px;
+    font-size:3.125rem;
     color:rgb(0, 0, 0);
     animation: glow 2s ease-in-out infinite alternate;
 }
@@ -174,7 +174,7 @@ h2{
         text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #000000, 0 0 40px #000000, 0 0 50px #000000, 0 0 60px #000000, 0 0 70px #000000;
     }
     to {
-        text-shadow: 0 0 20px #fff, 0 0 30px #ffffff, 0 0 40px #000000, 0 0 50px #000000, 0 0 60px #000000, 0 0 70px #000000, 0 0 80px #ffffff;
+        text-shadow: 0 0 20px #fff, 0 0 30px #ffffff, 0 0 40px #000000, 0 0 50px #000000, 0 0 60px #000000, 0 0 70px #000000, 0 0 80px #000000;
     }
 }
 
